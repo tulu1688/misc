@@ -14,3 +14,5 @@ wget http://download1.rstudio.org/rstudio-0.98.1062-amd64.deb
 sudo dpkg -i *.deb
 rm *.deb
 ~~~~~~
+
+* Note: fix bug of installing rstudio "sudo apt-get install libgstreamer-plugins-base0.10-dev"
